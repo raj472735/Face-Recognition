@@ -29,7 +29,8 @@ def tick():
 ###################################################################################
 
 def contact():
-    mess._show(title='Contact us', message="Please contact us on : 'shubhamkumar8180323@gmail.com' ")
+    mess._show(title='Contact us', message="Please contact us on : 'raj472735@gmail.com' ")
+    mess._show(title='Contact us', message="Please contact us on : '8092124708' ")
 
 ###################################################################################
 
@@ -41,7 +42,7 @@ def check_haarcascadefile():
         mess._show(title='Some file missing', message='Please contact us for help')
         window.destroy()
 
-###################################################################################
+###########################FUNCTION SAVE PASSWORD########################################################
 
 def save_pass():
     assure_path_exists("TrainingImageLabel/")
@@ -75,7 +76,7 @@ def save_pass():
     mess._show(title='Password Changed', message='Password changed successfully!!')
     master.destroy()
 
-###################################################################################
+#####################################FUNCTION CHANGE PASSWORD##############################################
 
 def change_pass():
     global master
