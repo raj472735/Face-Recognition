@@ -1,7 +1,11 @@
 # Face Recognition Based Attendance System
 
 The RedmyFace Recognition Attendance System is an advanced facial recognition-based attendance tracking system. It leverages OpenCV for face detection and recognition, combined with Tkinter for a user-friendly graphical interface. The system efficiently logs attendance data using CSV, Pandas, and NumPy, ensuring a seamless experience for managing attendance records.
+## Acknowledgements
 
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 🛠 Technologies Used
 
 Tkinter → For building the graphical user interface (GUI)
