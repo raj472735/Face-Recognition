@@ -1,9 +1,6 @@
 # Face Recognition Based Attendance System
 
 The RedmyFace Recognition Attendance System is an advanced facial recognition-based attendance tracking system. It leverages OpenCV for face detection and recognition, combined with Tkinter for a user-friendly graphical interface. The system efficiently logs attendance data using CSV, Pandas, and NumPy, ensuring a seamless experience for managing attendance records.
-#📌 Overview
-
-The RedmyFace Recognition Attendance System is an advanced facial recognition-based attendance tracking system. It leverages OpenCV for face detection and recognition, combined with Tkinter for a user-friendly graphical interface. The system efficiently logs attendance data using CSV, Pandas, and NumPy, ensuring a seamless experience for managing attendance records.
 
 🛠 Technologies Used
 
